@@ -1,0 +1,196 @@
+[INFO ] 2023-04-19 16:14:34.270 [main] Hook - TESTE INICIADO: Digite um texto e clique em enviar mensagem
+[INFO ] 2023-04-19 16:14:34.342 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 16:14:34.417 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:14:34.422 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 16:15:37.052 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:15:37.129 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 16:16:06.209 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:16:06.219 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 16:18:35.660 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:18:43.060 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:18:43.060 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 16:19:15.343 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:19:20.467 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:19:20.468 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 16:20:51.410 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:20:51.475 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 16:21:11.938 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:21:11.946 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 16:21:20.942 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:21:26.363 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:21:26.363 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 16:23:14.754 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:23:19.636 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 16:23:19.636 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:03:16.458 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:03:26.466 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:03:26.466 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:23:48.502 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:23:51.207 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:23:51.208 [main] Hook - TESTE STATUS: UNDEFINED
+[INFO ] 2023-04-19 17:29:13.863 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:29:16.203 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:29:16.204 [main] Hook - TESTE STATUS: UNDEFINED
+[INFO ] 2023-04-19 17:29:38.371 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:29:43.983 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:29:43.983 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:30:46.708 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:30:49.066 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:30:49.066 [main] Hook - TESTE STATUS: UNDEFINED
+[INFO ] 2023-04-19 17:31:27.463 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:31:32.959 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:31:32.959 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:34:03.379 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:34:09.356 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:34:09.357 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:36:03.953 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:36:07.903 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:36:07.903 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:39:31.384 [main] Hook - TESTE INICIADO: teste
+[INFO ] 2023-04-19 17:39:31.437 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 17:42:43.583 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:42:47.589 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:42:47.590 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:43:13.729 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:43:17.705 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:43:17.705 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:43:25.210 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:43:29.076 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:43:29.077 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:43:59.428 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:44:10.119 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:44:10.119 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:44:28.023 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:44:52.790 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:44:52.790 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:49:03.964 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:49:07.647 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:49:07.649 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:49:46.985 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:49:50.679 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:49:50.679 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:50:06.494 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:50:09.954 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:50:09.955 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 17:51:04.478 [main] Hook - TESTE INICIADO: Cadastro de usuário
+[INFO ] 2023-04-19 17:51:04.534 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 17:51:20.415 [main] Hook - TESTE INICIADO: Cadastro de usuário
+[INFO ] 2023-04-19 17:51:20.474 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 17:51:46.069 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:51:59.724 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 17:51:59.726 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 18:00:41.174 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:00:52.204 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:00:52.204 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 18:02:41.723 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:02:52.557 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:02:52.557 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 18:02:52.559 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:03:02.523 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:03:02.523 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 18:03:02.526 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:03:12.439 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:03:12.439 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 18:24:47.104 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:25:10.627 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:25:10.631 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:25:33.083 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:25:33.086 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:25:56.069 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:26:10.949 [main] Hook - TESTE FINALIZADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:26:10.949 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2023-04-19 18:26:10.954 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:31:46.651 [main] Hook - TESTE INICIADO: Cadastrar Usuário
+[INFO ] 2023-04-19 18:31:46.683 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:32:59.104 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:33:35.348 [main] Hook - TESTE INICIADO: a
+[INFO ] 2023-04-19 18:33:35.379 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:42:25.976 [main] Hook - TESTE INICIADO: 
+[INFO ] 2023-04-19 18:42:26.009 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:43:33.473 [main] Hook - TESTE INICIADO: 
+[INFO ] 2023-04-19 18:43:33.527 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:44:21.684 [main] Hook - TESTE INICIADO: 
+[INFO ] 2023-04-19 18:44:21.728 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:46:36.828 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:13.796 [main] Hook - TESTE INICIADO: Adicionar Produto ao carrinho
+[INFO ] 2023-04-19 18:47:13.833 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:13.839 [main] Hook - TESTE INICIADO: Adicionar Produto ao carrinho
+[INFO ] 2023-04-19 18:47:13.861 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:13.867 [main] Hook - TESTE INICIADO: Adicionar Produto ao carrinho
+[INFO ] 2023-04-19 18:47:13.893 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:36.826 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:47:36.870 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:36.877 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:47:36.902 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:36.907 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:47:36.932 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:56.474 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:47:56.515 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:56.522 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:47:56.545 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:47:56.549 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:47:56.571 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:59:31.508 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:59:31.547 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:59:31.552 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:59:31.571 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 18:59:31.575 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 18:59:31.604 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:00:08.019 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 19:00:08.053 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:00:08.056 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 19:00:08.078 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:00:08.086 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 19:00:08.105 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:00:18.907 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 19:00:18.942 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:00:18.947 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 19:00:18.968 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:00:18.974 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 19:00:18.990 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:02:24.102 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 19:02:24.152 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:03:29.409 [main] Hook - TESTE INICIADO: Adicionar Produto ao Carrinho
+[INFO ] 2023-04-19 19:03:29.453 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:07:47.273 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:07:47.310 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:07:47.315 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:07:47.332 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:07:47.337 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:07:47.355 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:08:41.128 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:08:41.196 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:08:41.202 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:08:41.223 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:08:41.228 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:08:41.252 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:09:33.245 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:09:33.292 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:09:33.297 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:09:33.322 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:09:33.327 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:09:33.350 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:10:07.154 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:10:07.191 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:10:07.197 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:10:07.217 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 19:10:07.222 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 19:10:07.242 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:52:53.429 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:52:53.475 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:52:53.481 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:52:53.503 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:52:53.510 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:52:53.548 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:54:35.131 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:54:35.186 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:54:35.194 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:54:35.217 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:54:35.225 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:54:35.261 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:55:16.273 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:55:16.318 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:55:16.323 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:55:16.348 [main] Report - Tirando print screen da tela
+[INFO ] 2023-04-19 20:55:16.356 [main] Hook - TESTE INICIADO: Cadastrar usuário
+[INFO ] 2023-04-19 20:55:16.379 [main] Report - Tirando print screen da tela
